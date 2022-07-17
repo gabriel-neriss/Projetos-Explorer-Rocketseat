@@ -24,17 +24,15 @@ Tecnologias abordadas ao longo do programa:
 
 - [ Projeto 1 - Móveis Customizados ](https://github.com/gabriel-neriss/Explorer-Projeto01)
 
-- [Projeto 1 - Treine.me ](https://github.com/gabriel-neriss/RocketseatProjeto2Treine.me)
+- [Projeto 2 - Treine.me ](https://github.com/gabriel-neriss/RocketseatProjeto2Treine.me)
 
-- [Projeto 2 - Rocket.set](https://github.com/gabriel-neriss/-RocketseatProjetoFinal2)
+- [Projeto 3 - Rocket.set](https://github.com/gabriel-neriss/-RocketseatProjetoFinal2)
 
-- [Projeto 3 - Responsividade](https://github.com/gabriel-neriss/ProjetoResponsivo)
+- [Projeto 4 - Formulário Mentoria](https://github.com/gabriel-neriss/ProjFormIntermediario)
 
-- [ Projeto 4 - Space Cream](https://github.com/gabriel-neriss)
+- [Projeto 5- Formulário Avaliação](https://github.com/gabriel-neriss/FormAvancado)
 
-- [Projeto 5 - Formulário Mentoria](https://github.com/gabriel-neriss/ProjFormIntermediario)
-
-- [Projeto 6 - Formulário Avaliação](https://github.com/gabriel-neriss/FormAvancado)
+- [ Projeto 6- Space Cream](https://github.com/gabriel-neriss)
 
 - [ Porjeto 7 - Timer Focus ](https://github.com/gabriel-neriss/TimerFocus)
 
