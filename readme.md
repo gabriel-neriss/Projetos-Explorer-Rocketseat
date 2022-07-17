@@ -36,7 +36,7 @@ Tecnologias abordadas ao longo do programa:
 
 - [ Projeto 6 - Sapce Cream](https://github.com/gabriel-neriss)
 
-- [ Porjeto 7 - Timer Fcous ](https://github.com/gabriel-neriss/TimerFocus)
+- [ Porjeto 7 - Timer Focus ](https://github.com/gabriel-neriss/TimerFocus)
 
 
 ## 🔗⚙️  Projetos Back-end 
