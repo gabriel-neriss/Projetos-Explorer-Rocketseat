@@ -1,4 +1,4 @@
-<center> ![download](https://user-images.githubusercontent.com/87450820/179401847-13ab52c3-d70a-4eb9-9658-8225eac358eb.jpg) </center>
+<div align="center"> <img src="https://user-images.githubusercontent.com/87450820/179401847-13ab52c3-d70a-4eb9-9658-8225eac358eb.jpg" width="200px" /> </div>
 
 
 # 💻 Sobre o programa !
