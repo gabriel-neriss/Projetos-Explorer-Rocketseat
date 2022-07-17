@@ -22,9 +22,9 @@ Tecnologias abordadas ao longo do programa:
 
 ## 🔗🎨 Projetos Front-end 
 
-- [ Projeto 1 - Móveis Customizados ](https://github.com/gabriel-neriss/RocketseatExplorerAula1HTMLeCSS)
+- [ Projeto 1 - Móveis Customizados ](https://github.com/gabriel-neriss/Explorer-Projeto01)
 
-- [Projeto 1 - Treine.me ](https://github.com/gabriel-neriss/RocketseatExplorerAula1HTMLeCSS)
+- [Projeto 1 - Treine.me ](https://github.com/gabriel-neriss/RocketseatProjeto2Treine.me)
 
 - [Projeto 2 - Rocket.set](https://github.com/gabriel-neriss/-RocketseatProjetoFinal2)
 
