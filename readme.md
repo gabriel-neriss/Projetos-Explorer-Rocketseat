@@ -7,7 +7,7 @@
 
 O Explorer é um programa **Full Stack** desenvolvido para ajudar a evoluir habilidades técnicas e comportamentais específicas para área de programação.
 
-⚙️ Tecnologias abordadas ao longo do programa:
+Tecnologias abordadas ao longo do programa:
 
 - HTML
 - CSS
