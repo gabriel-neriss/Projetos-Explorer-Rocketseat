@@ -2,11 +2,12 @@
 
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-neris/)
 
+
 # 💻 Sobre o programa !
 
 O Explorer é um programa **Full Stack** desenvolvido para ajudar a evoluir habilidades técnicas e comportamentais específicas para área de programação.
 
-Tecnologias abordadas ao longo do programa:
+⚙️ Tecnologias abordadas ao longo do programa:
 
 - HTML
 - CSS
@@ -17,6 +18,10 @@ Tecnologias abordadas ao longo do programa:
 - SQL
 - Bibliotecas e frameworks
 - React.js
+
+
+# ⌨️ Projetos desenvolvidos no Explorer!
+
 
 👨‍💻 **Esses projetos são desafios proposto no programa, ou seja, não são projetos guiados, todos os desafios na parte de programação/codificação são feito do 0 exclusivamente por mim!** 
 
@@ -43,5 +48,9 @@ Tecnologias abordadas ao longo do programa:
 
 
 ⌛⌛ EM ANDAMENDO ⌛⌛
+
+
+
+
 
 
