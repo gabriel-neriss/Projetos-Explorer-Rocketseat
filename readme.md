@@ -18,6 +18,8 @@ Tecnologias abordadas ao longo do programa:
 - Bibliotecas e frameworks
 - React.js
 
+**Esses projetos são desafios proposto no programa, ou seja, não são projetos guiados, todos os desafios na parte de programação/codificação são feito do 0 exclusivamente por mim!**
+
 
 
 ## 🔗🎨 Projetos Front-end 
