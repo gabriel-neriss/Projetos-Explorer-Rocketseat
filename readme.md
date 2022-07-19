@@ -27,7 +27,7 @@ Tecnologias abordadas ao longo do programa:
 
 
 
-## 🔗🎨 Projetos Front-end 
+## 🎨 Projetos Front-end 
 
 - [ Projeto 1 - Móveis Customizados ](https://github.com/gabriel-neriss/Explorer-Projeto01)
 
@@ -44,10 +44,10 @@ Tecnologias abordadas ao longo do programa:
 - [ Porjeto 7 - Timer Focus ](https://github.com/gabriel-neriss/TimerFocus)
 
 
-## 🔗⚙️  Projetos Back-end 
+## 📡  Projetos Back-end 
 
 
-⌛⌛ EM ANDAMENDO ⌛⌛
+🚧 EM ANDAMENDO 🚧
 
 
 
