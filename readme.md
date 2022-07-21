@@ -23,10 +23,6 @@ Tecnologias abordadas ao longo do programa:
 # ⌨️ Projetos desenvolvidos no Explorer!
 
 
-#### 👨‍💻 Esses projetos são desafios proposto no programa, ou seja, não são projetos guiados por um instrutor, todos os desafios na parte de programação/codificação são feito do 0 exclusivamente por mim!
-
-
-
 ## 🎨 Projetos Front-end 
 
 - [ Projeto 1 - Móveis Customizados ](https://github.com/gabriel-neriss/Explorer-Projeto01)
