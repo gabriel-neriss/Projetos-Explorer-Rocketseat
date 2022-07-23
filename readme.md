@@ -37,7 +37,7 @@ Tecnologias abordadas ao longo do programa:
 
 - [ Projeto 6- Space Cream](https://github.com/gabriel-neriss)
 
-- [ Porjeto 7 - Timer Focus ](https://github.com/gabriel-neriss/TimerFocus)
+- [ Projeto 7 - Timer Focus ](https://github.com/gabriel-neriss/TimerFocus)
 
 
 ## 📡  Projetos Back-end 
